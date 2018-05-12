@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32268'
     url: http://www.gutenberg.org/2009/agents/32268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26841#Successful-Stock-Speculation
 gutenberg_issued: '2008-10-08'
 gutenberg_type: Text
 identifiers:
